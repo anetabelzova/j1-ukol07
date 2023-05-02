@@ -2,7 +2,7 @@ package cz.czechitas.ukol07.svatky;
 
 import java.time.MonthDay;
 
-public class Svatek {
+public class    Svatek {
     private MonthDay den;
     private String jmeno;
 
